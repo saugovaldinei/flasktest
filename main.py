@@ -1,4 +1,5 @@
 #Teste do firebase studio
+#Teste python
 import os
 
 from flask import Flask, send_file
